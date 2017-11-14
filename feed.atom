@@ -1,18 +1,18 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title type="text">Athena</title>
-  <id>http://localhost/</id>
+  <id>http://apas.github.io/athena/</id>
   <updated>2017-07-04T00:00:00Z</updated>
-  <link href="http://localhost/" />
-  <link href="http://localhost/" rel="self" />
+  <link href="http://apas.github.io/athena/" />
+  <link href="http://apas.github.io/athena/" rel="self" />
   <subtitle type="text">Athena Atom Feed</subtitle>
   <generator>Werkzeug</generator>
-  <entry xml:base="http://localhost/">
+  <entry xml:base="http://apas.github.io/athena/">
     <title type="text">Speeches</title>
-    <id>http://localhost/posts/speeches</id>
+    <id>http://apas.github.io/posts/speeches</id>
     <updated>2016-06-05T00:00:00Z</updated>
     <published>2016-06-05T00:00:00Z</published>
-    <link href="http://localhost/posts/speeches" />
+    <link href="http://apas.github.io/posts/speeches" />
     <author>
       <name>Apostolos Papadopoulos</name>
     </author>
@@ -43,12 +43,12 @@
 &lt;/html&gt;
 </content>
   </entry>
-  <entry xml:base="http://localhost/">
+  <entry xml:base="http://apas.github.io/athena/">
     <title type="text">My early life</title>
-    <id>http://localhost/posts/winston</id>
+    <id>http://apas.github.io/posts/winston</id>
     <updated>2017-07-04T00:00:00Z</updated>
     <published>2017-07-04T00:00:00Z</published>
-    <link href="http://localhost/posts/winston" />
+    <link href="http://apas.github.io/posts/winston" />
     <author>
       <name>Apostolos Papadopoulos</name>
     </author>
@@ -72,12 +72,12 @@
 &lt;/html&gt;
 </content>
   </entry>
-  <entry xml:base="http://localhost/">
+  <entry xml:base="http://apas.github.io/athena/">
     <title type="text">Elements</title>
-    <id>http://localhost/posts/elements</id>
+    <id>http://apas.github.io/posts/elements</id>
     <updated>2016-03-12T00:00:00Z</updated>
     <published>2016-03-12T00:00:00Z</published>
-    <link href="http://localhost/posts/elements" />
+    <link href="http://apas.github.io/posts/elements" />
     <author>
       <name>Apostolos Papadopoulos</name>
     </author>
@@ -203,7 +203,7 @@ var &lt;span class=&quot;op&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;va&quot
 &lt;br /&gt;
 &lt;/span&gt;&lt;/span&gt; Proin sit amet mi venenatis, semper orci eu, ornare mauris. Morbi erat augue, scelerisque eget pharetra sed, fringilla ut leo. Etiam ut arcu nec massa bibendum lobortis ac eu justo. Proin sit amet sagittis est. fig. 1&lt;/p&gt;
 &lt;div class=&quot;figure&quot;&gt;
-&lt;img src=&quot;/static/img/figure1.png&quot; title=&quot;An image.&quot; alt=&quot;Figure 1: A note about the image.&quot; id=&quot;fig:test&quot; /&gt;
+&lt;img src=&quot;/athena/static/img/figure1.png&quot; title=&quot;An image.&quot; alt=&quot;Figure 1: A note about the image.&quot; id=&quot;fig:test&quot; /&gt;
 &lt;p class=&quot;caption&quot;&gt;Figure 1: A note about the image.&lt;/p&gt;
 &lt;/div&gt;
 &lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit. Praesent vel ullamcorper felis. Phasellus tincidunt quam vel tellus vestibulum, vitae aliquet neque malesuada. Sed finibus mauris non mi semper, vitae imperdiet dui maximus. Proin sit amet mi venenatis, semper orci eu, ornare mauris. Morbi erat augue, scelerisque eget pharetra sed, fringilla ut leo. Etiam ut arcu nec massa bibendum lobortis ac eu justo. Proin sit amet sagittis est.&lt;/p&gt;
@@ -217,12 +217,12 @@ var &lt;span class=&quot;op&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;va&quot
 &lt;/html&gt;
 </content>
   </entry>
-  <entry xml:base="http://localhost/">
+  <entry xml:base="http://apas.github.io/athena/">
     <title type="text">Hackers are painters</title>
-    <id>http://localhost/posts/hackers</id>
+    <id>http://apas.github.io/posts/hackers</id>
     <updated>2017-07-03T00:00:00Z</updated>
     <published>2017-07-03T00:00:00Z</published>
-    <link href="http://localhost/posts/hackers" />
+    <link href="http://apas.github.io/posts/hackers" />
     <author>
       <name>Apostolos Papadopoulos</name>
     </author>
@@ -252,7 +252,7 @@ var &lt;span class=&quot;op&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;va&quot
 &lt;p&gt;Sometimes what the hackers do is called “software engineering,” but this term is just as misleading. Good software designers are no more engineers than architects are. The border between architecture and engineering is not sharply defined, but it’s there. It falls between what and how: architects decide what to do, and engineers figure out how to do it.&lt;/p&gt;
 &lt;p&gt;What and how should not be kept too separate. You’re asking for trouble if you try to decide what to do without understanding how to do it. But hacking can certainly be more than just deciding how to implement some spec. At its best, it’s creating the spec– though it turns out the best way to do that is to implement it.&lt;/p&gt;
 &lt;div class=&quot;figure&quot;&gt;
-&lt;img src=&quot;/static/img/bruegel.jpg&quot; alt=&quot;Hackers and painters; by Pieter Bruegel.&quot; /&gt;
+&lt;img src=&quot;/athena/static/img/bruegel.jpg&quot; alt=&quot;Hackers and painters; by Pieter Bruegel.&quot; /&gt;
 &lt;p class=&quot;caption&quot;&gt;Hackers and painters; by Pieter Bruegel.&lt;/p&gt;
 &lt;/div&gt;
 &lt;p&gt;Perhaps one day “computer science” will, like Yugoslavia, get broken up into its component parts. That might be a good thing. Especially if it meant independence for my native land, hacking.&lt;/p&gt;
