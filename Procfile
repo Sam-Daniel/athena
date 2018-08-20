@@ -1,1 +1,1 @@
-web: python athena.py
+web: python install.py
