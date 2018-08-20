@@ -36,11 +36,7 @@ if version < (3, 0):
   print((print_color(error, 1)))
   sys.exit()
 
-for dependency in dependencies:
-  if not which.find_executable(dependency):
-    error = "[ERR]\t" + dependency + " not found in path"
-    print((print_color(error, 1)))
-    sys.exit()
+
 
 print((print_color("==> Creating the virtual environment. . .", 4)))
 try:
